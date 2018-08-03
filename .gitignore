@@ -1,0 +1,14 @@
+/dropwizard-service/.idea/
+/dropwizard-service/target/
+/dropwizard-service/dropwizard-service.iml
+/dropwizard-service/dependency-reduced-pom.xml
+
+/spring-service/.idea/
+/spring-service/target/
+/spring-service/.mvn/
+/spring-service/spring-service.iml
+
+/backend/.idea/
+
+.idea/
+~                              
