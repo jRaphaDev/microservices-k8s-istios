@@ -1,0 +1,13 @@
+version: "2"
+services:
+  nest-service:
+    build: ./nest-service
+    image: node:8
+    ports:
+      - "8080:8080"
+  
+  spring-service:
+    build: ./spring-service
+    image: openjdk:8-jdk-alpine
+    ports:
+      - "8081:8081"

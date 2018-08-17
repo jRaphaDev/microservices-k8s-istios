@@ -1,7 +1,0 @@
-version: "2"
-services:
-  nest-js:
-    build: .
-    image: node:8
-    ports:
-      - "8080:8080"
